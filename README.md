@@ -6,7 +6,7 @@ This software is a simple "Hello World" program that outputs a message to the co
 
 The purpose of creating this software is to validate my ability to set up tools, run code successfully, and publish a working project to a public repository. It also helps establish a repeatable process I will use for more advanced projects throughout the course.
 
-[Software Demo Video](https://youtube.com/your-video-link)
+[Software Demo Video](https://www.loom.com/share/6034bd9c4ef14d31a21a76fb2ecd4bf0)
 
 # Development Environment
 
